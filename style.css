@@ -8,7 +8,42 @@
 	padding-left: 180px;
 }
 
+.active>a{
+	text-decoration: underline;
+	text-decoration-color: orange;
+	color: blue;
 
+}
+.navbar-light .navbar-nav .active>.nav-link{
+	color: blue;
+}
+.active>a:hover{
+	text-decoration: underline;
+}
+.navbar-light .navbar-nav .active>.nav-link{
+	color: black;
+}
+
+@media only screen and (max-width: 1200px){
+.logo{
+	width:140;
+	height: 100px;
+}	
+.navbar-expand-lg{
+	padding-left: 150px;
+}
+
+}
+@media only screen and (max-width: 600px){
+	.logo{
+	width:50;
+	height: 100px;
+}	
+.navbar-expand-lg{
+	padding-left: 30px;
+}
+
+}
 
 
 .wave{
