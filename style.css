@@ -57,6 +57,9 @@
 	left: 25%;
 	color: white;
 }
+.horizintalline{
+	border-top: 1px solid white;
+}
 .center2{
 	position: absolute;
 	top: 53%;
@@ -64,18 +67,7 @@
 	color: white;
 	font-size: 18px;
 }
-hr.horizintalline{
-	position: absolute;
-	display: block;
-	border-width: 1px;
-	border-top: 1px solid white;
-	color: white;
-}
-hr.style1{
-	border-top: 1px solid red;
-	margin-left: 53%;
-	
-}
+
 .bt-our{
 	background-color: #E98923;
 	width: 300px;
@@ -93,3 +85,39 @@ hr.style1{
 	font-size: 22px;
 }
 
+.body-col{
+	background-color: #EAEAEA;
+	width: 100%;
+}
+
+.colstyle{
+	padding-left: 18%;
+
+
+}
+.bodycol{
+	background-color: white;
+	width: 300px;
+}
+.logocol{
+	padding-top: 50px;
+	padding-left: 30%;
+
+}
+.headername{
+	font-size: 18px;
+	padding-left: 41%;
+}
+.bodyname{
+	font-size: 14px;
+	padding-left: 22%;
+	padding-right: 8%;
+	padding-bottom: 80px;
+}
+.bodyname2{
+	padding-left: 28%;
+}
+
+.company{
+	border-style: 1px solid black;
+}
