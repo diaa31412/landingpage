@@ -119,5 +119,63 @@
 }
 
 .company{
-	border-style: 1px solid black;
+	border-top: 1px solid #8c8c8c;
+	margin-top: -15px;
+	width: 100%;
+	background-color: white;
+}
+.header-company{
+	text-align: center;
+	padding-top: 16px;
+	font-size: 18px;
+	color: #4DADF5;
+}
+.footer{
+	margin-left: 20%;
+}
+.imgfooter{
+	padding-left: 25px;
+}
+.center1{
+	position: absolute;
+	top: 15%;
+	left: 30%;
+	color: white;
+
+
+}
+.center3{
+	position: absolute;
+	top: 30%;
+	left: 29%;
+	color: white;
+	font-size: 18px;
+}
+.come1{
+	padding-right: 25px;
+}
+.come2{
+	
+	float: right;
+}
+
+.bodyname2{
+	padding-left: 30%;
+}
+.center4{
+	position: absolute;
+	top: 55%;
+	left: 33%;	
+}
+.center5{
+	position: absolute;
+	top: 61%;
+	left: 35%;		
+}
+.center6{
+   position: absolute;
+	top: 64%;
+	left: 40%;
+	bottom: -50px;
+	color: orange;	
 }
