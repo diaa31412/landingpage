@@ -44,9 +44,52 @@
 }
 
 }
-
+/*End style Navbar*/
 
 .wave{
 	width: 100%;
 	height: 500px;
 }
+
+.center{
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	color: white;
+}
+.center2{
+	position: absolute;
+	top: 53%;
+	left: 25%;
+	color: white;
+	font-size: 18px;
+}
+hr.horizintalline{
+	position: absolute;
+	display: block;
+	border-width: 1px;
+	border-top: 1px solid white;
+	color: white;
+}
+hr.style1{
+	border-top: 1px solid red;
+	margin-left: 53%;
+	
+}
+.bt-our{
+	background-color: #E98923;
+	width: 300px;
+	height: 46px;
+	position: absolute;
+	top: 72%;
+	left: 38%;
+	border-style: none;
+}
+.bt-our:hover{
+	background-color: #cc9000;
+}
+.btn-content{
+	color: white;
+	font-size: 22px;
+}
+
