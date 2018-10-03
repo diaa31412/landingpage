@@ -88,6 +88,7 @@
 .body-col{
 	background-color: #EAEAEA;
 	width: 100%;
+
 }
 
 .colstyle{
@@ -102,6 +103,7 @@
 .logocol{
 	padding-top: 50px;
 	padding-left: 30%;
+	height: 149px;
 
 }
 .headername{
@@ -123,6 +125,7 @@
 	margin-top: -15px;
 	width: 100%;
 	background-color: white;
+	
 }
 .header-company{
 	text-align: center;
