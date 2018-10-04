@@ -1,4 +1,6 @@
-
+body{
+	overflow-x: hidden;
+}
 /*Style for navbar*/
 .logo{
 	width:200;
@@ -28,7 +30,7 @@
 .logo{
 	width:140;
 	height: 100px;
-}	
+}
 .navbar-expand-lg{
 	padding-left: 150px;
 }
@@ -38,7 +40,7 @@
 	.logo{
 	width:50;
 	height: 100px;
-}	
+}
 .navbar-expand-lg{
 	padding-left: 30px;
 }
@@ -70,11 +72,11 @@
 
 .bt-our{
 	background-color: #E98923;
-	width: 300px;
-	height: 46px;
+	width: 350px;
+	height: 65px;
 	position: absolute;
 	top: 72%;
-	left: 38%;
+	left: 35%;
 	border-style: none;
 }
 .bt-our:hover{
@@ -82,7 +84,8 @@
 }
 .btn-content{
 	color: white;
-	font-size: 22px;
+	font-size: 30px;
+	padding-left: 7px;
 }
 
 .body-col{
@@ -92,7 +95,7 @@
 }
 
 .colstyle{
-	padding-left: 18%;
+	padding-left: 12%;
 
 
 }
@@ -123,9 +126,8 @@
 .company{
 	border-top: 1px solid #8c8c8c;
 	margin-top: -15px;
-	width: 100%;
 	background-color: white;
-	
+
 }
 .header-company{
 	text-align: center;
@@ -134,7 +136,8 @@
 	color: #4DADF5;
 }
 .footer{
-	margin-left: 20%;
+	margin-left: 15%;
+	padding-bottom: 15px;
 }
 .imgfooter{
 	padding-left: 25px;
@@ -158,7 +161,7 @@
 	padding-right: 25px;
 }
 .come2{
-	
+
 	float: right;
 }
 
@@ -168,19 +171,19 @@
 .center4{
 	position: absolute;
 	top: 55%;
-	left: 33%;	
+	left: 33%;
 }
 .center5{
 	position: absolute;
 	top: 61%;
-	left: 35%;		
+	left: 35%;
 }
 .center6{
    position: absolute;
 	top: 64%;
 	left: 40%;
 	bottom: -50px;
-	color: orange;	
+	color: orange;
 }
 footer ul li{
   display: inline;
