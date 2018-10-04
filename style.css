@@ -153,16 +153,25 @@ body{
 .center3{
 	position: absolute;
 	top: 30%;
-	left: 29%;
+	left: 26%;
 	color: white;
 	font-size: 18px;
 }
 .come1{
-	padding-right: 25px;
+	padding-right: 23px;
 }
 .come2{
 
 	float: right;
+	margin-top: -14px;
+
+}
+.bodycoma{
+	position: absolute;
+	top: 32%;
+	left: 30%;
+	color: white;
+	font-size: 18px;
 }
 
 .bodyname2{
@@ -208,4 +217,55 @@ footer{
  border-left: 1px solid #464646;
  height: 25px;
  margin-left: 12px;
+}
+
+
+/* Start style for about page */
+.header-about{
+	background:#5654f7;
+	height: 90px;
+}
+@media only screen and (max-width: 600px){
+	.header-about{
+		height: 115px;
+	}
+}
+.header-about h1 {
+	color: white;
+	padding-left: 15%;
+	padding-top: 13px;
+}
+.info-landing{
+	margin-left: 12%;
+}
+.header-info{
+	width: 70%;
+	height: 50px;
+	background: #5654f7;
+	margin-left: 12%;
+	border-style: 1px solid ;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+.header-info2{
+	width: 100%;
+	background:#6665f7;
+	height:29px;
+	margin-top: -25px;
+}
+.name-header{
+	color: white;
+	padding-left: 50%;
+	padding-top: 5px;
+	font-size: 22px;
+}
+.aside-info{
+	width: 30%;
+	height: 500px;
+	background: #6665f7;
+	margin-left: 12%;
+}
+.imgperson{
+	padding-top: 25px;
+	margin-left: 35px;
 }
