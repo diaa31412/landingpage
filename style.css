@@ -170,7 +170,7 @@ body{
 	color: #4DADF5;
 }
 .footer{
-	margin-left: 15%;
+	margin-left: 10%;
 	padding-bottom: 15px;
 }
 .imgfooter{
@@ -421,7 +421,9 @@ word-wrap: break-word;
 		font-size: 14px;
 	}
 }
-
+/* .footer-end{
+ padding-left: 12px;
+} */
 @media only screen and (max-width: 400px){
 	.details{
 		height: 750px;
@@ -444,4 +446,26 @@ word-wrap: break-word;
 	.name-header{
 		font-size: 14px;
 	}
+}
+@media only screen and (max-width: 1200px){
+footer{
+ margin-left: 90px
+}
+}
+@media only screen and (max-width: 900px){
+footer{
+ margin-left: 90px
+}
+}
+
+@media only screen and (max-width: 700px){
+footer{
+ margin-left: 80px;
+
+}
+footer p{
+ margin-left: 80px;
+ padding-left: 2%;
+
+}
 }
